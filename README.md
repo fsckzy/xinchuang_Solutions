@@ -5,11 +5,12 @@
 ## 核心展示
 1. **银河麒麟 (Kylin) 安全加固**
    - 核心库漏洞修复：OpenSSH 10.2p1 + OpenSSL 3.0.18 完美适配。
-[](./01_银河麒麟_OpenSSH与OpenSSL漏洞修复/成果截图/success.png)
+![麒麟v10 sp2](./01_银河麒麟_OpenSSH与OpenSSL漏洞修复/成果截图/success.png)
 
 2. **人大金仓 (Kingbase) 运维监控**
    - 慢 SQL 性能实时监控与分析方案。
-[](./02_人大金仓_慢SQL性能监控/成果截图/slow_sql_alert.png)
+![金仓数据库v8](./02_人大金仓_慢SQL性能监控/成果截图/slow_sql_alert.png)
+
 3. **通用信创组件优化**
    - 涵盖中间件、国产操作系统基线检查等。
 
